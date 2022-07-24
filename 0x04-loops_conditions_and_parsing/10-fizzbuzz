@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Fizzbuzz
+#Fizzbuzz!!
 
 for i in $(seq 1 100);
 do
